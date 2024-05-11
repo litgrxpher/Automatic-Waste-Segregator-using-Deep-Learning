@@ -1,0 +1,4 @@
+Metal
+Organic_Waste
+Paper
+Plastics
